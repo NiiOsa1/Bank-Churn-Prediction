@@ -1,3 +1,6 @@
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,3 +90,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+data/raw/Churn.csv
+
+
+
