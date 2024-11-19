@@ -8,6 +8,10 @@ This project predicts customer churn for a bank using machine learning models. T
 - **Solution:** Use machine learning models to predict churn and guide business decisions.
 
 ## Project Structure
+- **`data/`:** Contains raw and processed datasets.
+- **`notebooks/`:** Jupyter notebooks for analysis and modeling.
+- **`src/`:** Python scripts for data preprocessing, feature engineering, and modeling.
+- **`reports/`:** Generated visualizations and summaries.
 
 ## Tools and Libraries
 - **Programming Language:** Python
@@ -19,9 +23,3 @@ This project predicts customer churn for a bank using machine learning models. T
    ```bash
    git clone https://github.com/NiiOsa1/Bank-Churn-Prediction.git
    cd Bank-Churn-Prediction
-pip install -r requirements.txt
-
-jupyter notebook
-
-Acknowledgments
-Project based on the cookiecutter data science template.
