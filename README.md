@@ -177,6 +177,6 @@ Contact
 For questions or collaboration inquiries, please contact:
 
 Name: Michael Mensah Ofeor
-Email: michaelfeor2011@yahoo.com
+Email: michaelofeor2011@yahoo.com
 GitHub: NiiOsa1
 
